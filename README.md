@@ -21,4 +21,4 @@ Results
 The resulting RFM scores represent different segments of customers based on their purchasing behavior. By understanding these segments, we can tailor our marketing and sales strategies to better meet the needs of different groups of customers.
 
 ## Results
-![image](https://github.com/githubinsu/RFM-Segmentation/assets/130045953/59c7267f-fbb2-4974-9197-fe102e50fef8)
+![image](https://github.com/githubinsu/RFM-Segmentation/assets/130045953/17e8d3cf-45d4-483e-b88d-79b95a5221e8)
