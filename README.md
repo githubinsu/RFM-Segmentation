@@ -2,6 +2,10 @@
 ## Objective
 The goal of this project is to use RFM analysis to segment customers based on their purchase data. By using this analysis, we can distinguish between loyal customers, potential loyal customers, churned customers, and customers at risk of churning, etc. This information can be used to conduct more precise customer relationship management (CRM) and improve customer satisfaction.
 
+## Data Description
+I have utilized publicly available sales data, which has been anonymized and processed for the purpose of analysis.
+The dataset contains transaction data, where each row represents an individual order and the columns include information such as Order Date, Customer ID, Product Number, Price, Sector, Category, and Subcategory.
+
 ## Method
 The code follows several steps to achieve this goal:
 
